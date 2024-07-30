@@ -12,4 +12,4 @@ Keycult no2.65 raw 'https://keycult.com/products/no-2-65-raw-1'
 Keycult no2.tkl raw 'https://keycult.com/products/no-2-tkl-raw-edition'
 
 
-![image](https://github.com/user-attachments/assets/e50d49da-44ee-4589-8ad6-15a66bcb3764)
+![image](https://github.com/user-attachments/assets/8ee054b8-c895-4913-8b0d-dba4fe20ad7a)
