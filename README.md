@@ -2,6 +2,8 @@
 
 본인 슬랙에 봇 등록하고 원하는 채널에 봇 넣고 토큰 입력 Make slack bot in your slack channel
 
+How to add slack bot - https://wooiljeong.github.io/python/slack-bot/ 
+
 slack_token = "<토큰>" # token
 
 slack_channel = "<채널이름>" # channel_id
