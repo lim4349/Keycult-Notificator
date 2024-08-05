@@ -3,6 +3,7 @@
 본인 슬랙에 봇 등록하고 원하는 채널에 봇 넣고 토큰 입력 Make slack bot in your slack channel
 
 slack_token = "<토큰>" # token
+
 slack_channel = "<채널이름>" # channel_id
 
 purchase_page_url을 원하는 url로 바꾸면됨 change url 65 raw or TKL raw
